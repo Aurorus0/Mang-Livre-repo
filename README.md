@@ -6,6 +6,6 @@
     "apk": "Manlivre_Apoiador_V-65.apk",
     "lang": "pt-br",
     "code": 1,
-    "version": "V.065"
+    "version": "V.65"
   }
 ]
